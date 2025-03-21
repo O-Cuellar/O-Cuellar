@@ -7,7 +7,7 @@
 ## 🚀 Tecnologias e Ferramentas  
 🔹 Java | Python | React.JS | JavaScript | C/C++  
 🔹 Git | GitHub
-🔹 Linux | Shell Script  
+🔹 Linux | Windows
 
 ## 📫 Contato  
 📧 Email: cuellarotavio4@gmail.com
