@@ -5,9 +5,10 @@ Hi, I’m Otavio 👋
 📚 Learning Java, Python, and backend development
 🚀 Technologies and Tools
 
-🔹 Java | Python | React.js | JavaScript | C/C++
+🔹 Java | Python | React.js | JavaScript | C
 🔹 Git | GitHub
 🔹 Linux | Windows
+
 📫 Contact
 
 📧 Email: cuellarotavio4@gmail.com
