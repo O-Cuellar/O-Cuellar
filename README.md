@@ -9,8 +9,6 @@ Hi, I’m Otavio 👋
 🔹 Git | GitHub
 🔹 Linux | Windows
 
-📫 Contact
-
 📧 Email: cuellarotavio4@gmail.com
 💼 [LinkedIn]: https://www.linkedin.com/in/ot%C3%A1vio-cuellar-0b98741b6/
 
