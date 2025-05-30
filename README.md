@@ -1,9 +1,13 @@
 Hi, I’m Otavio 👋
 
 💻 Computer Science Student 
+
 🎯 7th semester at Uniderp Anhanguera
+
 🚀 Exploring OOP, structured programming, and frontend with React.js
+
 📚 Learning Java, Python, and backend development
+
 🚀 Technologies and Tools
 
 🔹 Java | Python | React.js | JavaScript | C
