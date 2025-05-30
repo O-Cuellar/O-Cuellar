@@ -1,20 +1,39 @@
-Hi, I’m Otavio 👋
+# Olá, eu sou o Otavio 👋
 
-💻 Computer Science Student 
+💻 Estudante de Ciência da Computação  
+🎯 7º semestre na Uniderp Anhanguera  
 
-🎯 7th semester at Uniderp Anhanguera
+---
 
-🚀 Exploring OOP, structured programming, and frontend with React.js
+## Sobre mim
 
-📚 Learning Java, Python, and backend development
+Atualmente, estou explorando Programação Orientada a Objetos (POO), programação estruturada e desenvolvimento frontend com React.js.
 
-🚀 Technologies and Tools
+Sou dedicado ao aprendizado constante e sempre busco novos desafios para crescer profissionalmente.  
 
-🔹 Java | Python | React.js | JavaScript | C
-🔹 Git | GitHub
-🔹 Linux | Windows
+---
 
-📧 Email: cuellarotavio4@gmail.com
-💼 [LinkedIn]: https://www.linkedin.com/in/ot%C3%A1vio-cuellar-0b98741b6/
+## Tecnologias e Ferramentas
 
-🎯 Always learning and seeking new challenges!
+- **Linguagens:** Java | Python | JavaScript | C  
+- **Frontend:** React.js  
+- **Backend:** Java | Python  
+- **Controle de versão:** Git | GitHub  
+- **Sistemas Operacionais:** Linux | Windows  
+
+---
+
+## Contato
+
+📧 Email: cuellarotavio4@gmail.com  
+💼 LinkedIn: [linkedin.com/in/otávio-cuellar-0b98741b6](https://www.linkedin.com/in/ot%C3%A1vio-cuellar-0b98741b6/)  
+
+---
+
+## Objetivo
+
+Estou sempre aberto a oportunidades e projetos que me permitam aplicar e aprimorar meus conhecimentos em desenvolvimento de software
+
+---
+
+Obrigado pela visita! 🚀
