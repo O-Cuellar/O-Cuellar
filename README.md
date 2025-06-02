@@ -7,7 +7,7 @@
 
 ## Sobre mim
 
-Atualmente, estou explorando Programação Orientada a Objetos (POO), programação estruturada e desenvolvimento frontend com React.js.
+Atualmente, estou explorando Programação Orientada a Objetos voltada ao desenvolvimento backend com Java, programação estruturada voltada ao sistema operacional Linux utilizando linguagem C e desenvolvimento frontend com React.js.
 
 ---
 
