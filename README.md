@@ -1,15 +1,13 @@
 # Olá, eu sou o Otavio 👋
 
 💻 Estudante de Ciência da Computação  
-🎯 7º semestre na Uniderp Anhanguera  
+🎯 7º semestre
 
 ---
 
 ## Sobre mim
 
 Atualmente, estou explorando Programação Orientada a Objetos (POO), programação estruturada e desenvolvimento frontend com React.js.
-
-Sou dedicado ao aprendizado constante e sempre busco novos desafios para crescer profissionalmente.  
 
 ---
 
@@ -32,7 +30,7 @@ Sou dedicado ao aprendizado constante e sempre busco novos desafios para crescer
 
 ## Objetivo
 
-Estou sempre aberto a oportunidades e projetos que me permitam aplicar e aprimorar meus conhecimentos em desenvolvimento de software
+Aprendizado e desenvolvimento constante das minhas habilidades como desenvolvedor de software
 
 ---
 
