@@ -7,7 +7,8 @@ Estudante de Ciência da Computação
 
 ## Sobre mim
 
-Atualmente, estou explorando Programação Orientada a Objetos voltada ao desenvolvimento backend com Java e desenvolvimento frontend com Vite+React.js.
+Atualmente explorando Programação Orientada a Objetos voltada ao desenvolvimento backend com Java e desenvolvimento frontend com Vite+React.js.
+Entusiasta de sistemas operacionais Linux.
 
 ---
 
