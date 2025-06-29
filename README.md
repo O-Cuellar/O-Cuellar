@@ -1,7 +1,7 @@
 # Olá, eu sou o Otavio 👋
 
-💻 Estudante de Ciência da Computação  
-🎯 7º semestre
+Estudante de Ciência da Computação  
+7º semestre
 
 ---
 
