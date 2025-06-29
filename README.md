@@ -16,7 +16,7 @@ Atualmente, estou explorando Programação Orientada a Objetos voltada ao desenv
 - **Linguagens:** Java | Python | JavaScript | C  
 - **Frontend:** React.js  
 - **Backend:** Java | Python  
-- **Controle de versão:** Git | GitHub  
+- **Versionamento:** Git | GitHub  
 - **Sistemas Operacionais:** Linux | Windows  
 
 ---
